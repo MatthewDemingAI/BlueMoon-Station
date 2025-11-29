@@ -22110,10 +22110,6 @@
 "sdp" = (
 /turf/closed/wall/mineral/plastitanium/nodiagonal,
 /area/ruin/lavaland/unpowered/deepspaceone/security)
-"sdB" = (
-/obj/structure/marker_beacon/burgundy,
-/turf/open/lava/smooth/lava_land_surface,
-/area/ruin/lavaland/unpowered)
 "sec" = (
 /obj/machinery/autolathe,
 /turf/open/floor/plasteel,
@@ -55369,13 +55365,13 @@ tfw
 tfw
 tfw
 tfw
-sdB
 tfw
 tfw
 tfw
 tfw
 tfw
-sdB
+tfw
+tfw
 tfw
 tfw
 tfw
@@ -58460,7 +58456,7 @@ tfw
 tfw
 tfw
 tfw
-sdB
+tfw
 tfw
 tfw
 tfw
